@@ -12,7 +12,7 @@ There are six input files containing the number of available vehicles, their cap
   * i5: 800 customers, 200 vehicles   (best known: 22, my: 29)
   * i6: 1000 customers, 250 vehicles  (best known: 91, my: 94)
 
-Used algorithms for solving the problem are: *greedy search* for initial solution and then *simulated annealing* with parameters specified in parameters.py file.
+Used algorithms for solving the problem are: **greedy search** for initial solution and then **simulated annealing** with parameters specified in parameters.py file.
 
 Make sure to create folder output_files at the same level as the main.py before running the program.
 More details are provided in the docx file.

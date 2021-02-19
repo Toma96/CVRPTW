@@ -5,7 +5,7 @@ There are six input files containing the number of available vehicles, their cap
 
 
 * 6 instances:
-  * i1: 100 customers, 25 vehicles    (best known: 18, my result for running the algorithm for 15 min: 19)
+  * i1: 100 customers, 25 vehicles    (best known: 18, my result after running the algorithm for 15 min: 19)
   * i2: 200 customers, 50 vehicles    (best known: 18, my: 21)
   * i3: 400 customers, 100 vehicles   (best known: 11, my: 13)
   * i4: 600 customers, 150 vehicles   (best known: 11, my: 12)
